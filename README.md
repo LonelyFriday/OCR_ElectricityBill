@@ -1,6 +1,9 @@
 # Thai OCR with Preprocessing and Text Correction
 This Python script demonstrates how to perform Optical Character Recognition (OCR) on Thai and English text using the Tesseract OCR engine and the ThaiNLP library for text correction in Google Colab.
 
+![OCR_1](https://github.com/LonelyFriday/OCR_ElectricityBill/assets/60721199/ea8cadec-55c3-4389-869b-7215363faa83)
+
+
 ## Prerequisites
 - Python 3.x
 - OpenCV (cv2)
